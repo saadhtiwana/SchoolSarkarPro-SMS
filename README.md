@@ -1,10 +1,4 @@
-Here's the updated README without the **Preview** and **Contributing** sections:  
-
----
-
 # 🏫 SchoolSarkar Pro
-
-![SchoolSarkar Pro Banner](https://via.placeholder.com/800x300?text=SchoolSarkar+Pro)
 
 ## 🚀 Welcome to the Future of School Management!
 
