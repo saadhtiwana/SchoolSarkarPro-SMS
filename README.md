@@ -47,8 +47,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/saadhtiwana/SchoolSarkar-Pro.git
-   cd SchoolSarkar-Pro
+   git clone https://github.com/saadhtiwana/SchoolSarkarPro-SMS.git
+   cd SchoolSarkarPro-SMS
    ```
 
 2. **Open in your IDE**  
